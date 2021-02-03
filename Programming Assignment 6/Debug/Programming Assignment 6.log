@@ -1,0 +1,18 @@
+﻿  BinarySearchTree.cpp
+C:\Users\ryana\OneDrive\Desktop\Programming Projects\Programming Assignment 6\Programming Assignment 6\BinarySearchTree.hpp(237,9): warning C4101: 'i': unreferenced local variable
+C:\Users\ryana\OneDrive\Desktop\Programming Projects\Programming Assignment 6\Programming Assignment 6\BinarySearchTree.hpp(233): message : while compiling class template member function 'TreeNodeRecord<T> *BST<T>::inorderPredecessor(TreeNodeRecord<T> *&)'
+          with
+          [
+              T=int
+          ]
+C:\Users\ryana\OneDrive\Desktop\Programming Projects\Programming Assignment 6\Programming Assignment 6\BinarySearchTree.hpp(228): message : see reference to function template instantiation 'TreeNodeRecord<T> *BST<T>::inorderPredecessor(TreeNodeRecord<T> *&)' being compiled
+          with
+          [
+              T=int
+          ]
+C:\Users\ryana\OneDrive\Desktop\Programming Projects\Programming Assignment 6\Programming Assignment 6\BinarySearchTree.hpp(7): message : while compiling class template member function 'BST<int>::BST(void)'
+C:\Users\ryana\OneDrive\Desktop\Programming Projects\Programming Assignment 6\Programming Assignment 6\BinarySearchTree.cpp(11): message : see reference to function template instantiation 'BST<int>::BST(void)' being compiled
+C:\Users\ryana\OneDrive\Desktop\Programming Projects\Programming Assignment 6\Programming Assignment 6\BinarySearchTree.cpp(11): message : see reference to class template instantiation 'BST<int>' being compiled
+C:\Users\ryana\OneDrive\Desktop\Programming Projects\Programming Assignment 6\Programming Assignment 6\BinarySearchTree.hpp(116): warning C4715: 'BST<int>::searchElement': not all control paths return a value
+C:\Users\ryana\OneDrive\Desktop\Programming Projects\Programming Assignment 6\Programming Assignment 6\BinarySearchTree.hpp(264): warning C4715: 'BST<int>::inorderPredecessor': not all control paths return a value
+  Programming Assignment 6.vcxproj -> C:\Users\ryana\OneDrive\Desktop\Programming Projects\Programming Assignment 6\Debug\Programming Assignment 6.exe
